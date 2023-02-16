@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainPageGenshim Snapshot 1`] = `
+<div>
+  <h2>
+    Wich character are you looking for
+  </h2>
+   
+  <label
+    for="Character"
+  >
+    Character name:
+  </label>
+   
+  <input
+    id=""
+    name=""
+    type="text"
+  />
+   
+  <nuxt-child />
+</div>
+`;

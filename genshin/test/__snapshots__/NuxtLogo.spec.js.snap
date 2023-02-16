@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainPageGenshim Snapshot 1`] = `
+<div>
+  <div
+    class="row"
+  >
+    <div
+      class="col"
+    >
+      <h1
+        class="text-center"
+      >
+        Welcome to the genshin impact revision
+      </h1>
+    </div>
+     
+    <div
+      class="col"
+    >
+      <button
+        class="btn"
+      >
+        <h2>
+           Start
+        </h2>
+      </button>
+    </div>
+  </div>
+</div>
+`;
